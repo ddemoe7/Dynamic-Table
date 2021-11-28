@@ -1,5 +1,6 @@
 # Dynamic Table
 JavaScript Exercise - JavaScript and DOM Manipulation
+<br>
 <i>(javascript-challenge)</i>
 
 ## Background
