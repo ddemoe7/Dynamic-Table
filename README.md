@@ -1,5 +1,6 @@
-# javascript-challenge
+# Dynamic Table
 JavaScript Exercise - JavaScript and DOM Manipulation
+<i>(javascript-challenge)</i>
 
 ## Background
 * Write code that will create a table dynamically based on a provided dataset. Allow users to filter the table data for specific values. Use only using JavaScript, HTML, CSS and D3.js to build the table.
